@@ -1,19 +1,24 @@
-# This is a large heading 
+# Suruchi Walekar 
 
-## This is a smaller heading
+### Geography
+I live in the USA on planet Earth in the Milky Way galaxy.
+
+### Reading
+Three of my favorite books are:
+- *Good Omens* by Neil Gaiman and Terry Pratchett
+- *Ready Player One* by Ernest Cline
+- *Last of Her Name* by Jessica Khoury
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet's pen,
 Turns them to sapes and gives to airy nothing,
 A local *habitation* and a **name**.
 
-- This is
-- an unordered
-- list
+My favorite foods are:
 
-1. This is 
-2. an ordered
-3. list
+1. Enchiladas
+2. Ice Cream
+3. Noodles
 
 Here is `some code` in the middle of a sentence.
 
