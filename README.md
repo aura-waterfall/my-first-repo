@@ -28,6 +28,4 @@ a block
 of code
 ```
 
-Here is how you make [a link] (https://www.wikipedia.org).
-
-![This is an image]
+Here is [my website](https://aura-waterfall.github.io).
