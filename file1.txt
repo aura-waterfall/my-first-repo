@@ -1,2 +1,2 @@
-Hello
-I conflicted this from the new branch
+Hi
+I updated this from the new branch
